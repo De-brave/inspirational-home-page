@@ -1,0 +1,106 @@
+
+body {
+    
+    font-family: 'Inter', sans-serif;
+}
+
+.content-01 {
+    background-image: url("images/einstein_ex-f1lbleggpc4ogudafotswq1.png");
+    width: auto;
+    height: 100vh;
+    padding: 1px;
+    margin: 20px 10px;
+}
+
+.content-01 div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1380px;
+    height: 256px;
+    background: black;
+    color: white;
+    font-size: 40px;
+    margin-top: 300px;
+}
+
+.first-p {
+    padding: 90px 50px;
+}
+
+.content-02 {
+    background-image: url("images/feynman_1965_cern_cern1.png");
+    width: auto;
+    height: 100vh;
+    padding: 1px;
+    margin: 20px 10px;
+}
+
+.content-02 div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1380px;
+    height: 256px;
+    background: black;
+    color: white;
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+.second-p {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.lft-align {
+    text-align: right;
+    padding-right: 110px;
+    padding-top: 10px;
+}
+
+.content-03 {
+    background-image: url("images/3-Idiots1.png");
+    width: auto;
+    height: 100vh;
+    padding: 1px;
+    margin: 20px 10px;
+}
+
+.content-03 div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1380px;
+    height: 256px;
+    color: white;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.third-p {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+.lft-align {
+    text-align: right;
+    padding-right: 110px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a, a:active, a:visited {
+    color: #173fad;
+}
+
+a:hover {
+    font-size: 22px;
+}
+
